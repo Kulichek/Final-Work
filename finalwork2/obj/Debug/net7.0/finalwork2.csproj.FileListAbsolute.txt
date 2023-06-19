@@ -1,0 +1,15 @@
+C:\Users\kulic\Desktop\FW\finalwork2\bin\Debug\net7.0\finalwork2.exe
+C:\Users\kulic\Desktop\FW\finalwork2\bin\Debug\net7.0\finalwork2.deps.json
+C:\Users\kulic\Desktop\FW\finalwork2\bin\Debug\net7.0\finalwork2.runtimeconfig.json
+C:\Users\kulic\Desktop\FW\finalwork2\bin\Debug\net7.0\finalwork2.dll
+C:\Users\kulic\Desktop\FW\finalwork2\bin\Debug\net7.0\finalwork2.pdb
+C:\Users\kulic\Desktop\FW\finalwork2\obj\Debug\net7.0\finalwork2.csproj.AssemblyReference.cache
+C:\Users\kulic\Desktop\FW\finalwork2\obj\Debug\net7.0\finalwork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulic\Desktop\FW\finalwork2\obj\Debug\net7.0\finalwork2.AssemblyInfoInputs.cache
+C:\Users\kulic\Desktop\FW\finalwork2\obj\Debug\net7.0\finalwork2.AssemblyInfo.cs
+C:\Users\kulic\Desktop\FW\finalwork2\obj\Debug\net7.0\finalwork2.csproj.CoreCompileInputs.cache
+C:\Users\kulic\Desktop\FW\finalwork2\obj\Debug\net7.0\finalwork2.dll
+C:\Users\kulic\Desktop\FW\finalwork2\obj\Debug\net7.0\refint\finalwork2.dll
+C:\Users\kulic\Desktop\FW\finalwork2\obj\Debug\net7.0\finalwork2.pdb
+C:\Users\kulic\Desktop\FW\finalwork2\obj\Debug\net7.0\finalwork2.genruntimeconfig.cache
+C:\Users\kulic\Desktop\FW\finalwork2\obj\Debug\net7.0\ref\finalwork2.dll
